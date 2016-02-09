@@ -1,0 +1,15 @@
+{
+  "name": "spore_instance",
+  "version": "0.1.0",
+  "description": "Knowd deployed instances of spore contracts.",
+  "dependencies": {},
+  "contracts": [
+    "Instance"
+  ],
+  "ignore": [],
+  "files": [
+    "test/example.js",
+    "contracts/Instance.sol"
+  ],
+  "tags": []
+}

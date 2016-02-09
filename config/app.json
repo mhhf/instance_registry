@@ -1,0 +1,10 @@
+{
+  "deploy": [
+    "Instance"
+  ],
+  "rpc": {
+    // Default RPC configuration.
+    "host": "192.168.59.103",
+    "port": 8545
+  }
+}
